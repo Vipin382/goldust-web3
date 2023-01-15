@@ -1,0 +1,18 @@
+.close{
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    font-size: 30px;
+    cursor: pointer;
+    display: none;
+    @media screen and (max-width: 860px){
+        display: block;
+    }
+}
+.social path{
+    color: #80AB9E;
+}
+.social:hover path{
+    color: #00E3A5;
+    cursor: pointer;
+}

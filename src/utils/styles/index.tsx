@@ -1,0 +1,9 @@
+export { default as AboutObjects } from "./AboutStyles";
+export { default as AchievementObject } from "./AchievementStyles";
+export { default as CommunityObject } from "./Community";
+export { default as CompanyObject } from "./CompanyStyles";
+export { default as FooterObject } from "./FooterStyles";
+export { default as LandingObject } from "./LandingStyles";
+export { default as NavbarObject } from "./NavbarStyles";
+export { default as WorkObject } from "./WorkStyles";
+export { default as CommonObject } from "./common";
